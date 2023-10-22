@@ -1,29 +1,18 @@
 # containerization-i
 
+This repository is for the  activity on the 3.4 cloud assignment.
+part 1: 
+Create package.json (npm init)
+Create index.js 
+Create node_modules and package-lock.json (npm install express)
+run localhost:8080 (node index.js)
 
-This repository is an activity for 3.4 cloud assignment.
+part 2:
+Create Dockerfile
 
+Part 3:
+Setup an EC2; update and install docker.
+Build a docker image.
+Run the image and start the container.
+Use the IP address of the EC2, it should show the same as you from localhost.
 
-steps ():
-1. create a repo with gitignore (node).
-
-2. check version of node:
-node -v
-npm -v
-
-3. npm init
-to create package.json
-
-4. create index.js
-
-5. run npm install express
-to create node_modules and package-lock.json
-
-6. node index.js
-to run node at http://localhost:8080
-
-7. add Dockerfile copy
-
-8. add dockerignore
-
-9. 
